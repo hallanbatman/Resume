@@ -1,0 +1,105 @@
+body {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   height: 100;
+}
+
+#personal {
+   margin: 10px;
+   /* border: solid black */
+}
+
+#header {
+   display: flex;
+   /* border: solid red */
+}
+
+#logo {
+   display: flex;
+   margin: 10px;
+   /* border: solid blue */
+}
+
+img{
+   width: 65px;
+   height: 65px;
+}
+
+#title{
+   margin-left: 15px;
+   /* border: solid green */
+}
+
+#title strong{
+   font-size: larger;
+   font-family: sans-serif
+}
+
+#title p{
+   margin: 0;
+   font-family: sans-serif
+}
+
+#info {
+   margin: 10px;
+   font-family: sans-serif;
+   /* border: solid orange */
+}
+
+a:link {
+  text-decoration:none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+#about{
+   margin-top: 0px;
+   margin-left: 10px;
+   /* border: solid purple */
+}
+
+#about p{
+   margin: 0px;
+}
+
+#employment_skills{
+   display: flex;
+   margin: 10px;
+   /* border: solid */
+}
+
+#history {
+   margin: 10px;
+   /* border: solid coral */
+}
+
+#history p{
+   margin: 10px;
+   /* border: solid */
+}
+
+#employment{
+   margin: 10px;
+   /* border: solid */
+}
+
+#education{
+   margin: 10px;
+   /* border: solid */
+}
+
+#skills{
+   margin: 10px;
+   /* border: solid */
+}
